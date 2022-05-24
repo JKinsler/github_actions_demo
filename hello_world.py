@@ -1,7 +1,8 @@
+"""prints hello world"""
+
+
 def print_hello():
-    """
-    prints 'hello world'
-    """
+    """prints 'hello world'"""
     print("hello world")
 
 
