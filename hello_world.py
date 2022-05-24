@@ -3,6 +3,7 @@
 
 def print_hello():
     """prints 'hello world'"""
+    bla
     print("hello world")
 
 
